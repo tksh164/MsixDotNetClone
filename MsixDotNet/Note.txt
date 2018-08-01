@@ -1,0 +1,11 @@
+﻿StgOpenStorage function
+https://msdn.microsoft.com/en-us/library/windows/desktop/aa380341(v=vs.85).aspx
+
+StgOpenStorageEx function
+https://msdn.microsoft.com/en-us/library/windows/desktop/aa380342(v=vs.85).aspx
+
+IStream インターフェイス
+https://msdn.microsoft.com/ja-jp/library/system.runtime.interopservices.comtypes.istream(v=vs.110).aspx
+
+STGM Constants
+https://msdn.microsoft.com/en-us/library/windows/desktop/aa380337(v=vs.85).aspx
