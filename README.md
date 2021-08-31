@@ -1,5 +1,7 @@
 # MsixDotNetClone
 
+[![Open in Visual Studio Code](https://open.vscode.dev/badges/open-in-vscode.svg)](https://open.vscode.dev/tksh164/MsixDotNetClone)
+
 This code is clone of [msix2.exe](https://blogs.msdn.microsoft.com/heaths/2006/08/18/digital-signatures-in-windows-installer/) by .NET.
 
 ## License
